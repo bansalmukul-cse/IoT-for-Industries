@@ -1,2 +1,2 @@
-# Aurdino-Working
+# Arduino-Working
 basic arduino use with sensors
