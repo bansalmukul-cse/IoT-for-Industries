@@ -1,2 +1,2 @@
-# Arduino-Working
-basic arduino use with sensors
+# IOT for Industries
+In this I have implemented basic iot Projects using Arduino
