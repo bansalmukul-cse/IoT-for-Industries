@@ -6,4 +6,4 @@ stimulation of play Music:
 Screenshots
 -----------
 
-<img width="30%" src="screenshots/2.png" />
+<img width="50%" src="screenshots/2.png" />
