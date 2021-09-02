@@ -6,4 +6,4 @@ In this I have implemented basic iot Projects using Arduino
 Screenshots
 -----------
 
-<img width="50%" src="screenshots/2.png" />
+<img width="70%" src="screenshots/2.png" />
