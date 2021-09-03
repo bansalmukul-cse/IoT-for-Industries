@@ -1,7 +1,7 @@
 # IOT for Industries
 In this I have implemented basic iot Projects using Arduino
 
- # 1. stimulation of play Music:
+ # 1. Stimulation of play Music:
 
 Screenshots
 -----------
