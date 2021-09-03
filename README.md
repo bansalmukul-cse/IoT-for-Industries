@@ -7,3 +7,8 @@ Screenshots
 -----------
 
 <img width="70%" src="screenshots/2.png" />
+
+
+#  2.Traffic Light System
+
+<img width="70%" src="screenshots/3.png" />
