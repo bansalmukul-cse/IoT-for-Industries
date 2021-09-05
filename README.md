@@ -20,3 +20,7 @@ Screenshots
 
 #  4. Ultrasonic Sensor with Arduino
 <img width="70%" src="screenshots/5.png" />
+
+#  4. Servo Motors with Arduino
+<img width="70%" src="screenshots/6.png" />
+
